@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'ember-rails'
 gem 'ember-source', '~> 1.8.1'
 gem 'emblem-rails'
+gem 'ffaker'
+gem 'responders', '~> 2.0'
+gem 'puma'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
